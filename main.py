@@ -1,1 +1,6 @@
-print("Github?")
+import Calculator
+
+calc = Calculator
+
+
+print(calc.add(1,1))
